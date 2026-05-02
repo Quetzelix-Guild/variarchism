@@ -12,7 +12,7 @@ Variarchism is an attempt to think clearly about what comes after, without nosta
 - **Resilience over optimization** — Systems that are efficient but brittle are not strong. Redundancy, slack, and apparent inefficiency are often what allows survival across changing conditions.
 - **Household and community before abstraction** — The first test of any idea is whether it helps real people live better, sturdier lives at scales they can actually act on.
 - **Shared support over atomization** — Many modern pressures come from forcing every household to solve every problem alone, and from extracting from the household resources that used to stay within it.
-- **Agency and exit** — This is not about limiting individual agency but making it so the individual ha room to breathe. Sometimes your best fit is not where you started.
+- **Agency and exit** — This is not about limiting individual agency but making it so the individual has room to breathe. Sometimes your best fit is not where you started.
 - **Failure as signal** — Not every experiment will work. Forms that fail still teach, and the framework treats failure as information rather than disgrace.
 
 ## Practical Starting Points
